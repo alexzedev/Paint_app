@@ -26,3 +26,21 @@ How to use:
 5. Paint on the canvas using the mouse or keyboard
 6. Save your painting to a file using the save option
 7. Clear the canvas and start again using the clear option
+
+Contributing:
+
+If you'd like to contribute to the paint app, please fork the repository and submit a pull request with your changes. We welcome bug fixes, feature requests, and improvements to the app!
+
+License:
+
+This paint app is licensed under the MIT License. You are free to use, modify, and distribute the app as you see fit.
+
+Target audience:
+
+This paint app is designed for anyone who wants to create and edit images using a simple and intuitive interface. Whether you're a student, a professional, or just someone who wants to have fun with art, this app is the perfect tool for you!
+
+Screenshots:
+
+![alt text](
+
+I hope this helps! Let me know if you'd like me to make any changes.
