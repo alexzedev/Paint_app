@@ -41,6 +41,6 @@ This paint app is designed for anyone who wants to create and edit images using 
 
 Screenshots:
 
-![alt text](
+![alt text](https://github.com/alexzedev/Paint_app/blob/main/paint_app.png?raw=true)
 
 I hope this helps! Let me know if you'd like me to make any changes.
