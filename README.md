@@ -16,3 +16,13 @@ Technical details:
 * Built using Python 3.11
 * Uses the Tkinter library for the graphical interface
 * Designed for Windows, macOS, and Linux platforms
+
+How to use:
+
+1. Clone the repository to your local machine
+2. Run the paint.py file using Python 
+3. The paint app will launch and display a graphical interface
+4. Use the color and brush size options to customize your painting experience
+5. Paint on the canvas using the mouse or keyboard
+6. Save your painting to a file using the save option
+7. Clear the canvas and start again using the clear option
