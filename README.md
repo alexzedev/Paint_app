@@ -10,3 +10,9 @@ Features:
 3. Save: Save your painting to a file
 4. Clear: Clear the canvas and start again
 * Allows users to paint on a canvas using the mouse or keyboard
+
+Technical details:
+
+* Built using Python 3.11
+* Uses the Tkinter library for the graphical interface
+* Designed for Windows, macOS, and Linux platforms
