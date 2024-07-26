@@ -5,9 +5,8 @@ Features:
 
 * Simple and intuitive graphical interface
 * Supports the following options:
-** Color: Choose from a range of colors to paint with
-Brush Size: Adjust the size of the brush to create different effects
-Save: Save your painting to a file
-Clear: Clear the canvas and start again
-Allows users to paint on a canvas using the mouse or keyboard
-Supports multiple layers and layer management
+1. Color: Choose from a range of colors to paint with
+2. Brush Size: Adjust the size of the brush to create different effects
+3. Save: Save your painting to a file
+4. Clear: Clear the canvas and start again
+* Allows users to paint on a canvas using the mouse or keyboard
